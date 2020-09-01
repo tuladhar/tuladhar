@@ -1,6 +1,6 @@
 # :pray: Namaste
 
-## :pencil2: Blogs I've Written
+## :pencil2: Blogs
 
 <a href="https://dev.to/ptuladhar3">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Puru's DEV Profile" height="30" width="30">
