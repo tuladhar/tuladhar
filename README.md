@@ -1,4 +1,4 @@
-![](avatar.png)
+![](https://raw.githubusercontent.com/tuladhar/tuladhar/main/avatar.png)
 
 ## :pencil2: Blogs
 
