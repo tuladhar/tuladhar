@@ -1,4 +1,4 @@
-# :pray: Namaste
+![](avatar.png)
 
 ## :pencil2: Blogs
 
