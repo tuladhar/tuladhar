@@ -1,11 +1,5 @@
 # :pray: Namaste
 
-## :house: Where do I live?
-
-Kathmandu, Nepal
-
-![Beautiful city of Kathmandu at night](images/kathmandu.jpg)
-
 ## :bicyclist: My Hobbies
 **Away from keyboard**
 - Soccer fanatic
