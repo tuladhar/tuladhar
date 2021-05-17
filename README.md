@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/tuladhar/tuladhar/main/avatar.png" height="300" width="400">
 
+<img src="https://github.com/tuladhar/tuladhar/blob/main/images/1548352102758.png" height="200" width="200">
+
+
 ## :pencil2: Blogs
 
 - [Bringing Manually Created Resources Into CloudFormation Management](https://medium.com/@ptuladhar3/bringing-manually-created-resources-into-cloudformation-management-ffd39b05d9f6?source=your_stories_page---------------------------)
