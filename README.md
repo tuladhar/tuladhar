@@ -19,4 +19,11 @@
 - [Dynamically Increase SWAP (ZRAM) Size in Linux](https://ptuladhar3.medium.com/dynamically-adjust-swap-zram-size-in-fedora-linux-78cd712808f2)
 - [GitHub Actions Self-Hosted Runner on Kubernetes](https://ptuladhar3.medium.com/github-actions-self-hosted-runner-on-kubernetes-55d077520a31)
 
+## Youtube Channels
+- [AWS News](https://www.youtube.com/channel/UCo6iCvAfqVvxKfYmJmJCB7g)
+
+## Twitter
+- [@CuratedAWSNews](https://twitter.com/@curatedawsnews)
+- [@cfradarnp](https://twitter.com/@cfradarnp)
+
 ## [Twitter](https://twitter.com/ptuladhar3) | [LinkedIn](https://www.linkedin.com/in/ptuladhar3/) | [Medium](https://ptuladhar3.medium.com/) | [Dev](https://dev.to/ptuladhar3/)
