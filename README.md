@@ -18,6 +18,7 @@
 - [Schedule MongoDB Backup to S3 using Kubernetes CronJob](https://ptuladhar3.medium.com/schedule-mongodb-backup-to-s3-using-kubernetes-cronjob-79ca811e1fc0)
 - [Dynamically Increase SWAP (ZRAM) Size in Linux](https://ptuladhar3.medium.com/dynamically-adjust-swap-zram-size-in-fedora-linux-78cd712808f2)
 - [GitHub Actions Self-Hosted Runner on Kubernetes](https://ptuladhar3.medium.com/github-actions-self-hosted-runner-on-kubernetes-55d077520a31)
+- [Monitoring & Alerting for WireGuard VPN](https://ptuladhar3.medium.com/wireguard-vpn-monitoring-alerting-e1e1d1eaaa4e)
 
 ## 📹 Youtube Channels
 - [AWS News](https://www.youtube.com/channel/UCo6iCvAfqVvxKfYmJmJCB7g)
