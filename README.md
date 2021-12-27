@@ -28,5 +28,6 @@
 ## 🐦 Twitter
 - [@CuratedAWSNews](https://twitter.com/@curatedawsnews)
 - [@cfradarnp](https://twitter.com/@cfradarnp)
+- [@ptuladhar3]@https://twitter.com/@ptuladhar3)
 
 ## [Twitter](https://twitter.com/ptuladhar3) | [LinkedIn](https://www.linkedin.com/in/ptuladhar3/) | [Medium](https://ptuladhar3.medium.com/) | [Dev](https://dev.to/ptuladhar3/)
