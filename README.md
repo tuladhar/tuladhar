@@ -24,6 +24,7 @@
   
 ## 📹 Youtube Channels
 - [AWS News](https://www.youtube.com/channel/UCo6iCvAfqVvxKfYmJmJCB7g)
+* [Personal](https://www.youtube.com/channel/UCpQaiAIOtOj-hs5vDe09WFQ)
 
 ## 🐦 Twitter
 - [@CuratedAWSNews](https://twitter.com/@curatedawsnews)
