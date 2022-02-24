@@ -21,6 +21,7 @@
 - [Monitoring & Alerting for WireGuard VPN](https://ptuladhar3.medium.com/wireguard-vpn-monitoring-alerting-e1e1d1eaaa4e)
 - [Kubernetes: Evenly Distribution of Pods Across Cluster Nodes](https://ptuladhar3.medium.com/kubernetes-distributing-pods-evenly-across-cluster-c6bdc9b49699)
 - [Testing SSL/TLS handshake latency using ssl-handshake](https://ptuladhar3.medium.com/testing-ssl-tls-handshake-latency-using-ssl-handshake-6a0c497890d1)
+- [AWS Certified Solution Architect Associate — SAA (C02) — Cheatsheet](https://ptuladhar3.medium.com/aws-certified-solution-architect-associate-saa-c02-cheatsheet-67e0e53f6f68)
   
 ## 📹 Youtube Channels
 - [AWS News](https://www.youtube.com/channel/UCo6iCvAfqVvxKfYmJmJCB7g)
