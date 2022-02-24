@@ -3,7 +3,7 @@
 
 ## 🎓 Certifications
 
-<a target='_blank' href='https://www.credential.net/7387f35e-a76d-4a0a-aa6a-1bdc31a040a4'> <img src="https://github.com/tuladhar/tuladhar/blob/main/images/1548352102758.png" height="200" width="200"> <a/> &nbsp; <a target='_blank' href='https://www.credly.com/badges/44c519e9-73a5-4228-ba97-b8cc118ef5f1/public_url'><img src="https://github.com/tuladhar/tuladhar/blob/main/images/AWS-CloudPractitioner-2020.png" height="200" width="200"></a>
+<a target='_blank' href='https://www.credential.net/7387f35e-a76d-4a0a-aa6a-1bdc31a040a4'> <img src="https://github.com/tuladhar/tuladhar/blob/main/images/1548352102758.png" height="200" width="200"> <a/> &nbsp; <a target='_blank' href='https://www.credly.com/badges/44c519e9-73a5-4228-ba97-b8cc118ef5f1/public_url'><img src="https://github.com/tuladhar/tuladhar/blob/main/images/AWS-CloudPractitioner-2020.png" height="200" width="200"></a> &nbsp; <a target='_blank' href='https://www.credly.com/badges/dc31c1fc-a3e1-4f3e-a94a-5d211bbc7c07/public_url'><img src="https://user-images.githubusercontent.com/5674762/155510157-3d422c98-a540-4792-88e1-738a61c00300.png" height="200" width="200"></a>
 
 ## :pencil2: Blogs
 
