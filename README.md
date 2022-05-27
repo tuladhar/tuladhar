@@ -23,7 +23,8 @@
 - [AWS Certified Solution Architect Associate — SAA (C02) — Cheatsheet](https://ptuladhar3.medium.com/aws-certified-solution-architect-associate-saa-c02-cheatsheet-67e0e53f6f68)
 - [AWS Certified Solutions Architect Professional (SAP-C01) — Cheatsheet](https://ptuladhar3.medium.com/aws-certified-solutions-architect-professional-sap-c01-cheatsheet-70ed86229e09)
 - [Getting Started with External Secrets Operator on Kubernetes using AWS Secrets Manager](https://ptuladhar3.medium.com/getting-started-with-external-secrets-operator-on-kubernetes-using-aws-secrets-manager-6dc403d9630c)
-  
+- [Learn Kubernetes Programming — Part 1](https://ptuladhar3.medium.com/learn-kubernetes-programming-part-1-7384e5f3c481)
+
 ## 📹 Youtube Channels
 - [AWS News](https://www.youtube.com/channel/UCo6iCvAfqVvxKfYmJmJCB7g)
 * [Personal](https://www.youtube.com/channel/UCpQaiAIOtOj-hs5vDe09WFQ)
