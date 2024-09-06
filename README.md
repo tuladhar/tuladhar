@@ -1,10 +1,10 @@
 ## 👋 About me
 
-🚀 With over 8 years of professional experience, I specialize in guiding companies through successful digital transformations in the cloud, helping them drive profitability 📈
+🚀 With over 8 years of professional experience, I specialize in guiding companies through successful digital transformations in the cloud, helping them drive profitability.
 
 💪🏼 My strengths include understanding customer needs and addressing technical challenges with effective, practical business-driven solutions.
 
-💁‍♂️ I bring in years of experience and expertise in 🐧 Linux, ⚙️ DevOps, 🛡️ Cloud Security, 🦺 SRE, Solution Architecture, ⎈ Kubernetes, ☁️ AWS, 🤖 Cloud Automation, Python 🐍 + Go programming.
+💁‍♂️ I bring in years of experience and expertise in Linux, DevOps, Cloud Security, Solution Architecture, Kubernetes, AWS, Cloud Automation, Python & Go programming.
 
 🙏 I’m passionate about continuous learning, sharing knowledge, and training.
 
